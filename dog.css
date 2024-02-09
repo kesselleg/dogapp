@@ -1,0 +1,32 @@
+
+
+body{
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(0, );
+    
+   
+}
+.container{
+    margin-top: 40%;
+    position: fixed;
+    
+    
+    
+}
+
+
+
+
+button{
+    background-color: rgb(254, 125, 89);
+    color: white;
+    padding: 10px;
+    margin: 4px;
+    width: 320px;
+    border-color: rgb(254, 125, 89);
+    cursor: pointer;
+    
+}
